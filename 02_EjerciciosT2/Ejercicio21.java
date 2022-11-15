@@ -25,7 +25,7 @@ public class Ejercicio21 {
             
         }else{
         
-            System.out.println("ERROR, la que has introducido no corresponde a la de un directorio");
+            System.out.println("ERROR, la ruta que has introducido no corresponde a la de un directorio");
             
         }
         
