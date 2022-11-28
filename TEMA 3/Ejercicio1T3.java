@@ -58,8 +58,8 @@ public class Ejercicio1T3 {
     }
         
         
-    Reproductor re = new Reproductor(mp3, false, false);
-    re.play();
+    Reproductor rep = new Reproductor(mp3, false, false);
+    rep.play();
     }
     
 }
