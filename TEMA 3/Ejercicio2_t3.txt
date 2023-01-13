@@ -1,0 +1,95 @@
+Ejercicio 2 del tema 3:
+
+
+a) Mario debe dar 10 saltos, uno tras otro. 
+
+-Aqui se repite el hecho de saltar y como nos dice el número de saltos que tiene 
+que dar es una estructura determinada.
+
+b) Ponte a hacer flexiones hasta que el profesor te diga que pares.
+
+-Aqui se repite el hecho de hacer flexiones y como no sabemos cuando el profe nos va
+a decir que paremos es una estructura inderterminada.
+
+c) El usuario va introduciendo números por el teclado hasta que pone el 0.
+
+-Aqui se repite el hecho de introducir números y como no sabemos cuando el usuario va
+a introducir el 0 es una estructura indeterminada.
+
+d) Escribe en la pizarra 100 veces “En clase no se habla”.
+
+-Aqui se repite el hecho de escribir la frase en la pizarra y como sabemos el numero
+exacto que tenemos que escribir esta frase es una estructura determinada.
+
+e) Una caja tiene 50 artículos. Los vamos sacando y miramos el precio de cada uno. 
+
+- Aqui se repite el hecho de sacar uno a uno los articulos de la caja y como sabemos 
+cuantos articulos hay en la caja es una estructura determinada
+
+f) Un teléfono emite un sonido hasta que el dueño lo coge o la persona que llama cuelga. 
+
+-Aqui se repite la emisión del sonido y como no sabemos cuando lo va a coger el dueño 
+o cuando la persona va a colgar es una estructura indeterminada.
+
+g) Tengo que resolver 20 ecuaciones de segundo grado. 
+
+-Aqui se repite el hecho de resolver ecuaciones y como sabemos cuantas ecuaciones 
+tenemos que resolve es una estructura determinada
+
+h) Tenemos que mostrar un mensaje en la pantalla tantas veces como ha introducido por
+teclado el usuario. 
+
+-Aqui se repite el hecho de mostrar un mensaje por pantalla. Una vez que el usuario
+introduzca el número ya si que sabremos el número preciso que se va repetir el 
+mensaje por lo que podriamos poner es una estructura determinada.
+
+i) Utilizo mi grabadora de CDs hasta que se rompe. 
+
+-Aqui se repite el hecho de usar la grabadora y como no sabemos cuando se va a romper 
+la grabadora es una estructura indeterminada
+
+j) Tengo que andar 15km. Al terminar un kilómetro, paro un poco y sigo hasta que llego.
+
+-Aqui se repite el hecho de parar cada kilometro y como sabemos que tenemos que recorrer
+15km es una estructura determinada
+
+k) Voy al supermercado y empiezo a comprar cosas de forma aleatoria hasta que se me
+acabe el dinero.   
+
+-Aqui se repite el hecho de comprar cosas aleatorias y como no sabemos cuando
+ se nos va a acabar el dinero (ya que en funcion de si compramos una cosa u otra
+el dinero se nos puede acabar antes o despues) es una estructura indeterminada
+
+l) Hay que transferir por FTP los 5MB de un fichero, byte a byte.
+
+-Aqui se repite el hecho transferir byte a byte los 5MB y como sabemos el número 
+exacto es una estructura determinada.
+
+m)  Tengo que grabar 1000 CDs con mi grabadora, mientras no se rompa. 
+
+-Aqui se repite el hecho de tener que grabar 1000 CDs pero hay que tener en cuenta
+nuestra grabadora puede que nos grabe los 1000 CDs o puede que se rompa antes por lo
+que es una estructura determinada con interrupción.
+
+n) La alarma debe estar funcionando hasta que el dueño la apague. 
+
+-Aqui se repite el hecho de que la alarma se repite y como no sabemos cuado el deuño 
+va a apagar la alarma es una estructura indeterminada
+
+o) La tanda de penaltis se termina cuando uno de los equipos marca 5 goles. 
+
+-Aqui se repite el hecho de tirar penaltis pero como no sabemos cuando uno de los
+equipos va a marcar los 5 goles es una estructura indeterminada.
+
+p) Debes hacer los 40 ejercicios uno tras otro hasta que éstos se acaben o el profesor te
+diga que pares. Además, por cada ejercicio mal, el profesor te añade 3 ejercicios más. 
+
+-Aqui se repite el hecho hacer ejercicios. Puede que el profe diga que nos paremos
+antes de terminar los ejercicios o que tengamos que hacer los 40 ejercicos por lo 
+que es una estructura determinada con interrupción.
+
+q)Se presenta un menú de opciones al usuario. El usuario elige una y cuando ésta finaliza
+se vuelve al menú. Esto se repite hasta que el usuario selecciona la opción “Salir”. 
+
+-Aqui se repite el hecho de volver al menu. Como no sabemos cuando va a pulsar a la 
+opción salir es una estructura indeterminada.
