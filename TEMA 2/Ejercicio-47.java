@@ -1,37 +1,35 @@
-package ejercicio_47;
-import java.awt.Desktop;
-import java.io.File;
-import java.io.IOException;
-import java.util.*;
+package Ejercicio_36;
 
 /**
  *
  * @author Oussama <oedd308@g.educaand.es>
  */
-public class Ejercicio_47 {
+public class Ejercicio36 {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
        
-        System.out.println("Introduce la ruta del archivo: ");
-        String ruta = new Scanner(System.in).nextLine();
+        // a)
         
-        File archivo = new File(ruta);
+        System.out.println("La raiz cuadrada de 150 es "+Math.sqrt(150));
         
-        Desktop abrir = Desktop.getDesktop();
-        if(archivo.exists()){
-            try{
-                abrir.open(archivo);
-            }catch(IOException x){
-            System.out.println(x.getMessage());
-            }
-        }else{
-            System.out.println("No se a encontrado el archivo");
-        }
-        }
+        // b)
         
+        double potencia = Math.pow(2, 9);
+        double div = potencia/Math.log(6);
         
+        System.out.println("El resultado de la operacion es "+div);
+        
+        // c)
+        
+        System.out.println("El resultado del coseno de 0.16 radianes es "+Math.cos(0.16));
+        
+        // d)
+        
+        double conv = Math.toRadians(45);
+        System.out.println("El seno de "+conv+" radianes es "+Math.sin(conv));
     }
 
+}
